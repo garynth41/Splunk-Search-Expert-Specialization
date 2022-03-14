@@ -1,7 +1,7 @@
 # Splunk-Search-Expert-Specialization
 Search Expert and write efficient searches, perform correlations, create visualizations, and leverage sub-searches and lookups.
 
-# WHAT YOU WILL LEARN
+## WHAT YOU WILL LEARN
 - Investigate data using Splunk Search Processing Language (SPL) and create searches, reports, dashboards, and visualizations.
 - Utilize temporary and persistent fields in searches and enrich data with fields from other data sources.
 - Create, managed, and schedule reports and alerts to automate processes and respond to incidents as they occur.
