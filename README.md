@@ -15,7 +15,7 @@ Search Expert and write efficient searches, perform correlations, create visuali
 * Business Intelligence
 * Business Analysis
 * Data Visualization (DataViz)
-* 
+
 ### About this Specialization
 
 By completing Search Expert 101, 102 & 103, you will be able to write efficient searches, perform correlations, create visualizations, and leverage subsearches and lookups. This course will also show you how to get started using your machine data to provide actionable reports and dashboards for your organization.
